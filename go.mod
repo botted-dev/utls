@@ -1,6 +1,6 @@
-module github.com/wwhtrbbtt/utls
+module github.com/botted-dev/utls
 
-go 1.18
+go 1.22
 
 require (
 	golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d

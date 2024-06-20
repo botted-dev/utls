@@ -12,7 +12,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/refraction-networking/utls/testenv"
+	"github.com/botted-dev/utls/testenv"
 	"io"
 	"math"
 	"net"
